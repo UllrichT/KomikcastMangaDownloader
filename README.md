@@ -7,3 +7,13 @@ This program will download the manga image and store it in a folder based on the
 User can choose to download the entire chapter or just a few chapters from a manga 
 
 After that, the program will generate html files that users can use to read manga that has been downloaded previously
+
+The html file name will use this format :
+
+X - Chapter Y.html
+
+Where :
+
+X = title of the manga that has been downloaded
+
+Y = number of the chapter
